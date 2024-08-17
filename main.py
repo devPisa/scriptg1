@@ -11,3 +11,5 @@ if (response.status_code == 200):
 
 else:
     print('Dados não encontrato')
+
+    --https://stackoverflow.com/questions/26393231/using-python-requests-with-javascript-pages
